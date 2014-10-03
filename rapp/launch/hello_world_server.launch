@@ -1,0 +1,8 @@
+<launch>
+
+  <!-- Hello world node -->
+  <group ns="rapp">
+    <node pkg="rapp" name="hello_world_server" type="hello_world_server"/>
+  </group> 
+  
+</launch>
